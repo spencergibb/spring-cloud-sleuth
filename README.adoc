@@ -18,7 +18,7 @@ Spring Cloud Sleuth's last minor version is 3.1. You can check the https://githu
 
 WARNING: Spring Cloud Sleuth will not work with Spring Boot 3.x onward. The last major version of Spring Boot that Sleuth will support is 2.x.
 
-The core of this project got moved to https://micrometer.io/docs/tracing[Micrometer Tracing] project and the instrumentations will be moved to https://micrometer.io/[Micrometer] and all respective projects (no longer all instrumentations will be done in a single repository.
+The core of this project got moved to https://docs.micrometer.io/tracing/reference/[Micrometer Tracing] project and the instrumentations will be moved to https://micrometer.io/[Micrometer] and all respective projects (no longer all instrumentations will be done in a single repository.
 
 You can check the https://github.com/micrometer-metrics/tracing/wiki/Spring-Cloud-Sleuth-3.1-Migration-Guide[Micrometer Tracing migration guide] to learn how to migrate from Spring Cloud Sleuth to Micrometer Tracing.
 
