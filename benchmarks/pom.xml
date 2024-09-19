@@ -38,7 +38,7 @@
 		<sonar.skip>true</sonar.skip>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-		<okhttp.version>4.12.0</okhttp.version>
+		<okhttp.version>4.9.0</okhttp.version>
 		<microbenchmark-runner.version>c5f1e7d047</microbenchmark-runner.version>
 		<jmh.version>1.26</jmh.version>
 	</properties>
