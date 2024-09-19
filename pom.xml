@@ -86,7 +86,7 @@
 		<brave-propagation-aws.version>0.21.3</brave-propagation-aws.version>
 		<archunit-junit5.version>0.23.1</archunit-junit5.version>
 		<testcontainers.version>1.15.3</testcontainers.version>
-		<build-helper-maven-plugin.version>3.2.0</build-helper-maven-plugin.version>
+		<build-helper-maven-plugin.version>3.3.0</build-helper-maven-plugin.version>
 	</properties>
 
 	<modules>
