@@ -85,7 +85,7 @@
 		<awaitility.version>4.0.3</awaitility.version>
 		<brave-propagation-aws.version>0.21.3</brave-propagation-aws.version>
 		<archunit-junit5.version>0.23.1</archunit-junit5.version>
-		<testcontainers.version>1.15.3</testcontainers.version>
+		<testcontainers.version>1.16.0</testcontainers.version>
 		<build-helper-maven-plugin.version>3.2.0</build-helper-maven-plugin.version>
 	</properties>
 
