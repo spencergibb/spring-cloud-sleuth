@@ -45,7 +45,7 @@
 		<brave.version>5.18.1</brave.version>
 		<zipkin-reporter.version>2.17.2</zipkin-reporter.version>
 		<brave.opentracing.version>1.0.1</brave.opentracing.version>
-		<grpc.spring.boot.version>4.2.3</grpc.spring.boot.version>
+		<grpc.spring.boot.version>5.0.0</grpc.spring.boot.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
